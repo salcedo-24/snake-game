@@ -21,26 +21,6 @@ Open the project folder.
 Open the project using the appropriate development environment.
 Run the main program file.
 Start playing the game.
-Project Structure
-text
-Snake-Game/
-├── source-code/
-├── screenshots/
-└── README.md
-
-
-The folder structure may vary depending on the actual project files.
-
-Screenshots
-
-Add screenshots of the game interface and gameplay in the screenshots folder.
-
-Example:
-
-text
-screenshots/
-├── gameplay.png
-└── game-over.png
 
 Project Objectives
 Apply fundamental programming concepts.
