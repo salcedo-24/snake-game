@@ -1,63 +1,59 @@
-🐍 Snake Game
+Snake Game
+Project Overview
 
-<p align="center">
-<img src="https://img.shields.io/badge/Project-Snake%20Game-22c55e?style=for-the-badge" alt="Snake Game">
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed">
-</p>
+Snake Game is a classic arcade-style game developed as a programming project. The objective of the game is to control a snake, collect food items, and avoid collisions with the walls or its own body.
 
-<p align="center">
-A classic arcade-style Snake Game where players control a growing snake, collect food, and challenge themselves to achieve a better score.
-</p>
+As the snake collects food, its length increases, making the gameplay more challenging. The project demonstrates basic programming concepts, game mechanics, and logical problem-solving.
 
-📖 About The Project
+Features
+Classic snake gameplay
+Player-controlled snake movement
+Food collection system
+Score tracking
+Collision detection
+Increasing difficulty as the snake grows
+Technologies Used
+Programming Language: [Specify Language]
+Development Environment: [Specify IDE]
+How to Run
+Clone or download the repository.
+Open the project folder.
+Open the project using the appropriate development environment.
+Run the main program file.
+Start playing the game.
+Project Structure
+text
+Snake-Game/
+├── source-code/
+├── screenshots/
+└── README.md
 
-Snake Game is a classic arcade-inspired game developed as a programming project. The objective is to control a snake, collect food items, and avoid collisions while keeping the game going as long as possible.
 
-As the snake eats more food, its body grows longer, making the game more challenging and exciting.
+The folder structure may vary depending on the actual project files.
 
-This project demonstrates programming logic, user interaction, game mechanics, and problem-solving skills.
+Screenshots
 
-🎮 Game Features
-🐍 Classic Snake gameplay.
-🍎 Food collection mechanics.
-📈 Score-based gameplay.
-🎯 Player-controlled snake movement.
-💥 Collision-based game mechanics.
-🔄 Continuous gameplay experience.
-🛠️ Technologies Used
+Add screenshots of the game interface and gameplay in the screenshots folder.
 
-The project uses programming concepts and development tools to implement the game's mechanics and functionality.
+Example:
 
-📸 Screenshots
+text
+screenshots/
+├── gameplay.png
+└── game-over.png
 
-Add screenshots of your actual game interface below.
-
-<!-- Replace the image path with your actual screenshot. -->
-
-!Snake Game Screenshot
-
-🚀 How To Run
-Download or clone this repository.
-Open the project folder in your development environment.
-Locate the main game source file.
-Run the program using the appropriate environment for its programming language.
-Start playing and enjoy the game!
-🎯 Learning Objectives
-Understand fundamental programming concepts.
+Project Objectives
+Apply fundamental programming concepts.
+Understand game logic and mechanics.
 Practice conditional statements and loops.
-Develop logical thinking and problem-solving skills.
-Learn basic game development mechanics.
-Improve programming and debugging skills.
-👨‍💻 Developer
+Improve problem-solving and logical thinking.
+Gain experience in developing interactive applications.
+Developer
 
 Rommel Cyrus Salcedo
 
-BS Computer Science Student | Aspiring Web Developer
+Bachelor of Science in Computer Science Student
 
-📄 License
+Purpose
 
-This project was developed for educational and personal learning purposes.
-
-<p align="center">
-Made with ❤️ by Rommel Cyrus Salcedo
-</p>
+This project was developed for educational purposes and to enhance programming and problem-solving skills.
