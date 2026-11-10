@@ -1,4 +1,4 @@
-🐍 Snake Game
+* Snake Game 🐍 Snake Game
 
 <p align="center">
 <b>A Classic Snake Game Project</b>
